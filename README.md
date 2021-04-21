@@ -5,6 +5,8 @@ GolangでGCSにおいたCSVからBigQueryにデータをinsertするサンプル
 
 詳しくは以下の記事をご参照ください。
 
+* [【BigQuery】GolangでGCSのCSVデータからBigQueryにデータを取り込むメモ](https://www.tweeeety.blog/entry/2021/04/21/211730)
+
 ## setup
 Please set credential file.  
 ```sh
