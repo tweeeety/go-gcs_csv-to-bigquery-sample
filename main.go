@@ -11,7 +11,7 @@ const (
 	projectID = "your-project"
 	dataset   = "sample_csv_dataset"
 	table     = "sample_csv_table"
-	GcsURI    = "gs://csv_data_sample-1/sample data.csv"
+	GcsURI    = "gs://csv_data_sample-1/sample_data.csv"
 )
 
 func main() {
